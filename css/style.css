@@ -3,3 +3,7 @@
   font-style: italic;
   font-family: "Comic Sans MS", cursive, sans-serif;
 }
+
+div.intro {
+  font-family: sans-serif;
+}
